@@ -8,6 +8,7 @@ on:
     types: [created]
 
 jobs:
+  if: false
   build:
     runs-on: ubuntu-latest
     steps:
