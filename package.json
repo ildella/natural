@@ -1,7 +1,7 @@
 {
   "name": "natural",
   "description": "General natural language (tokenizing, stemming (English, Russian, Spanish), part-of-speech tagging, sentiment analysis, classification, inflection, phonetics, tfidf, WordNet, jaro-winkler, Levenshtein distance, Dice's Coefficient) facilities for node.",
-  "version": "8.0.1",
+  "version": "8.0.1-ildella",
   "homepage": "https://github.com/NaturalNode/natural",
   "repository": {
     "type": "git",
@@ -15,11 +15,6 @@
     "afinn-165-financialmarketnews": "^3.0.0",
     "apparatus": "^0.0.10",
     "dotenv": "^16.4.5",
-    "http-server": "^14.1.1",
-    "memjs": "^1.3.2",
-    "mongoose": "^8.2.0",
-    "pg": "^8.11.3",
-    "redis": "^4.6.13",
     "safe-stable-stringify": "^2.2.0",
     "stopwords-iso": "^1.1.0",
     "sylvester": "^0.0.12",
@@ -143,5 +138,6 @@
       "name": "Hugo W.L. ter Doest",
       "email": "hwl.ter.doest@gmail.com"
     }
-  ]
+  ],
+  "packageManager": "yarn@4.6.0+sha512.5383cc12567a95f1d668fbe762dfe0075c595b4bfff433be478dbbe24e05251a8e8c3eb992a986667c1d53b6c3a9c85b8398c35a960587fbd9fa3a0915406728"
 }

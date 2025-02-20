@@ -14,3 +14,6 @@ npm-debug.log
 .vscode
 .nyc_output/*
 dist
+io_spec/
+coverage/
+.yarn/
