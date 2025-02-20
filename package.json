@@ -1,5 +1,5 @@
 {
-  "name": "natural",
+  "name": "@ildella/natural",
   "description": "General natural language (tokenizing, stemming (English, Russian, Spanish), part-of-speech tagging, sentiment analysis, classification, inflection, phonetics, tfidf, WordNet, jaro-winkler, Levenshtein distance, Dice's Coefficient) facilities for node.",
   "version": "8.0.1-ildella",
   "homepage": "https://github.com/NaturalNode/natural",
